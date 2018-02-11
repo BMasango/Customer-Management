@@ -1,0 +1,10 @@
+C:\Users\bbdnet1669\documents\visual studio 2015\Projects\AssignmentFiveFriday\AssignmentFiveFriday\obj\Debug\AssignmentFiveFriday.CustomerDetailEdit.resources
+C:\Users\bbdnet1669\documents\visual studio 2015\Projects\AssignmentFiveFriday\AssignmentFiveFriday\obj\Debug\AssignmentFiveFriday.Form1.resources
+C:\Users\bbdnet1669\documents\visual studio 2015\Projects\AssignmentFiveFriday\AssignmentFiveFriday\obj\Debug\AssignmentFiveFriday.Properties.Resources.resources
+C:\Users\bbdnet1669\documents\visual studio 2015\Projects\AssignmentFiveFriday\AssignmentFiveFriday\obj\Debug\AssignmentFiveFriday.csproj.GenerateResource.Cache
+C:\Users\bbdnet1669\documents\visual studio 2015\Projects\AssignmentFiveFriday\AssignmentFiveFriday\bin\Debug\AssignmentFiveFriday.exe.config
+C:\Users\bbdnet1669\documents\visual studio 2015\Projects\AssignmentFiveFriday\AssignmentFiveFriday\bin\Debug\AssignmentFiveFriday.exe
+C:\Users\bbdnet1669\documents\visual studio 2015\Projects\AssignmentFiveFriday\AssignmentFiveFriday\bin\Debug\AssignmentFiveFriday.pdb
+C:\Users\bbdnet1669\documents\visual studio 2015\Projects\AssignmentFiveFriday\AssignmentFiveFriday\obj\Debug\AssignmentFiveFriday.exe
+C:\Users\bbdnet1669\documents\visual studio 2015\Projects\AssignmentFiveFriday\AssignmentFiveFriday\obj\Debug\AssignmentFiveFriday.pdb
+C:\Users\bbdnet1669\documents\visual studio 2015\Projects\AssignmentFiveFriday\AssignmentFiveFriday\obj\Debug\AssignmentFiveFriday.csprojResolveAssemblyReference.cache
